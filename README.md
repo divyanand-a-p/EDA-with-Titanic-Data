@@ -12,4 +12,4 @@ SibSp and Parch showed a small positive correlation.
 Fare is positively correlated with survival.
 
 Tools used: Python, pandas, seaborn, matplotlib.  
-Files: titanic_cleaned.csv and titanic_eda.ipynb
+Files: Titanic_Cleaned.csv and titanic_eda.ipynb
